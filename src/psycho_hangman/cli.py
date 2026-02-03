@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import argparse
-import sys
 
 from psycho_hangman.game import Game, GuessResult
 from psycho_hangman.render import mask_term, render_hangman
