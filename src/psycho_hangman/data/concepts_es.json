@@ -1,0 +1,62 @@
+[
+  {
+    "term": "apego",
+    "hint": "Patrones de vínculo afectivo formados en la infancia.",
+    "category": "desarrollo",
+    "difficulty": "easy"
+  },
+  {
+    "term": "ansiedad",
+    "hint": "Estado de inquietud y anticipación frente a una amenaza.",
+    "category": "clinica",
+    "difficulty": "easy"
+  },
+  {
+    "term": "memoria",
+    "hint": "Capacidad de codificar, almacenar y recuperar información.",
+    "category": "cognitiva",
+    "difficulty": "easy"
+  },
+  {
+    "term": "refuerzo",
+    "hint": "Consecuencia que aumenta la probabilidad de una conducta.",
+    "category": "aprendizaje",
+    "difficulty": "easy"
+  },
+  {
+    "term": "proyección",
+    "hint": "Atribuir a otros sentimientos propios que resultan difíciles.",
+    "category": "psicodinamica",
+    "difficulty": "medium"
+  },
+  {
+    "term": "transferencia",
+    "hint": "Desplazamiento de afectos hacia el terapeuta desde vínculos previos.",
+    "category": "psicodinamica",
+    "difficulty": "medium"
+  },
+  {
+    "term": "disociación",
+    "hint": "Desconexión parcial entre experiencias, recuerdos o identidad.",
+    "category": "clinica",
+    "difficulty": "medium"
+  },
+  {
+    "term": "rumiación",
+    "hint": "Pensamiento repetitivo centrado en malestar y causas.",
+    "category": "clinica",
+    "difficulty": "medium"
+  },
+  {
+    "term": "habituación",
+    "hint": "Disminución de respuesta ante un estímulo repetido.",
+    "category": "aprendizaje",
+    "difficulty": "hard"
+  },
+  {
+    "term": "metacognición",
+    "hint": "Reflexionar sobre los propios procesos de pensamiento.",
+    "category": "cognitiva",
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "term": "attachment",
+    "hint": "Emotional bond patterns formed in early relationships.",
+    "category": "developmental",
+    "difficulty": "easy"
+  },
+  {
+    "term": "conditioning",
+    "hint": "Learning through association or reinforcement.",
+    "category": "learning",
+    "difficulty": "easy"
+  },
+  {
+    "term": "cognition",
+    "hint": "Processes involved in thinking and understanding.",
+    "category": "cognitive",
+    "difficulty": "easy"
+  },
+  {
+    "term": "resilience",
+    "hint": "Ability to recover after stress or adversity.",
+    "category": "clinical",
+    "difficulty": "easy"
+  },
+  {
+    "term": "projection",
+    "hint": "Attributing one's feelings to someone else.",
+    "category": "psychodynamic",
+    "difficulty": "medium"
+  },
+  {
+    "term": "transference",
+    "hint": "Redirecting feelings toward a therapist from past relationships.",
+    "category": "psychodynamic",
+    "difficulty": "medium"
+  },
+  {
+    "term": "dissonance",
+    "hint": "Discomfort from holding conflicting beliefs or actions.",
+    "category": "cognitive",
+    "difficulty": "medium"
+  },
+  {
+    "term": "rumination",
+    "hint": "Repetitive focus on distress and its causes.",
+    "category": "clinical",
+    "difficulty": "medium"
+  },
+  {
+    "term": "habituation",
+    "hint": "Reduced response after repeated exposure to a stimulus.",
+    "category": "learning",
+    "difficulty": "hard"
+  },
+  {
+    "term": "metacognition",
+    "hint": "Thinking about one's own thinking.",
+    "category": "cognitive",
+    "difficulty": "hard"
+  }
+]
